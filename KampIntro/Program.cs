@@ -10,8 +10,8 @@ namespace KampIntro
             //Do not repeat yourself - Kendini tekrarlama
             //değer tutucu, alias
             string kategoriEtiketi = "Kategoriler";
-            int ogrenciSayisi = 32000;
-            double faizOrani = 1.45;
+            //int ogrenciSayisi = 32000;
+            //double faizOrani = 1.45;
             bool sistemeGirisYapmisMi = true;
             double dolarDun = 7.45;
             double dolarBugun = 7.45;
@@ -38,7 +38,6 @@ namespace KampIntro
             }
             
             
-       
             Console.WriteLine(kategoriEtiketi);
             
         }

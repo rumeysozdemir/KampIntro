@@ -12,7 +12,7 @@ namespace Metodlar
        
         public void Ekle(Urun urun)
         {
-            Console.WriteLine("Tebrikler. Sepete Eklendi :  " + urun.Adi);
+            Console.WriteLine("Tebrikler. Sepete Eklendi : " + urun.Adi);
 
         }
         //burası cook önemli 3 paramatre geçtik cok hatalı bir kullanımdır.
